@@ -25,7 +25,7 @@ window.onload = function (){
         marker = new google.maps.Marker({
             position: myPos,
             map: map,
-            icon: "http://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-PNG-Pic.png"
+            icon: "https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-PNG-Pic.png"
             
         });
         marker.setMap(map);
